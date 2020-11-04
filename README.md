@@ -12,10 +12,13 @@ While you don't need it, you could do some fun stuff when you don't know what el
 6502 is very similar to 6510, but ever so slightly different. It's explained more in-depth on [Wikipedia](https://en.wikipedia.org/wiki/MOS_Technology_6510). 
 
 ## Where/when can I get it?
-Live64 will be available on this repository as soon as I get it roughly working.  
-I'm aiming to make it work on Linux as well with Wine. Although with someone's help, I'll gladly try to make a native port.
+Live64 will be available on this repository as soon as I get it roughly working.
+
+## What will it run on?
+It's mainly focused to run on Linux, using Qt.  
+Support for Windows could maybe be worked on when I've released a fully working Linux build.
+
+Support for Android and iOS (and Plasma Mobile) could be to come at some point.
 
 ## Is Live64 free?
-In the sense of no cost, yes. However, for the time being, Live64 is *not free* copyright-wise. I'll probably still allow you to use the source code with permission if you ask nicely.
-### Why?
-I don't want to go down the rabbit hole of open source licences quite yet.
+Live64 will be free and open source, probably available under GPLv3?
