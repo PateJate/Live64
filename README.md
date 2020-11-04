@@ -21,4 +21,6 @@ Support for Windows could maybe be worked on when I've released a fully working 
 Support for Android and iOS (and Plasma Mobile) could be to come at some point.
 
 ## Is Live64 free?
-Live64 will be free and open source, probably available under GPLv3?
+The core of Live64 (as in the 6502/6510 interpreter) will be free and open source, probably available under LGPLv3?
+
+The official build of Live64 *will likely not be open source*, but that might change as development continues.
