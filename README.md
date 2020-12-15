@@ -12,13 +12,18 @@ While you don't need it, you could do some fun stuff when you don't know what el
 6502 is very similar to 6510, but ever so slightly different. It's explained more in-depth on [Wikipedia](https://en.wikipedia.org/wiki/MOS_Technology_6510). 
 
 ## Where/when can I get it?
-Live64 will be available on this repository as soon as one can write a Hello World program on it.
+Live64 will be available on this repository as soon as one can write a Hello World program on it.  
 
+I do development on this project a few hours in a week, as it's just a hobby. I'd say it's about 50 % done now.  
+Just give me a month or two. (written on Dec 15 2020)
 ## What will it run on?
 It's mainly focused to run on Linux, using Qt.  
 Support for Windows could maybe be worked on when I've released a fully working Linux build.
 
-Support for Android and iOS (and Linux mobile OSes) could be to come at some point.
+Support for Android and iOS (and Linux mobile OSes) could be to come at some point as well. I'm open to help in these areas!
 
 ## Is Live64 free?
 Live64 will be free in price and also open source.
+
+## Can I help or suggest something?
+Probably! Contact me at askpatejate@gmail.com to know more.
