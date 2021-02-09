@@ -15,7 +15,7 @@ While you don't need it, you could do some fun stuff when you don't know what el
 Live64 will be available on this repository as soon as one can write a Hello World program on it.  
 
 I do development on this project a few hours in a week, as it's just a hobby. I'd say it's about 50 % done now.  
-Just give me a month or two. (written on Dec 15 2020)
+I might have something working by April. (written on 9 Feb 2021)
 ## What will it run on?
 It's mainly focused to run on Linux, using Qt.  
 Support for Windows could maybe be worked on when I've released a fully working Linux build.
